@@ -1,0 +1,28 @@
+name: We Are Club
+favicon: null
+layout_spectrum: 0.5774558938574046
+typography_spectrum: 0.8406652638223022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4035047674551606
+  lightness: 0.4523469440173358
+  saturation: 0.8456225025001913
+  rhythmicContrast: 0.9863858299795538
+purpose: []
